@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Runtime.InteropServices;
 
-Console.WriteLine("claude made me write this shit");
+
 
 Console.WriteLine("Welcome to NRoot");
 Thread.Sleep(10000);
