@@ -1,0 +1,2 @@
+C:\Users\annal\source\repos\NRoot\NRoot\bin\Release\net10.0\win-x86\publish\NRoot.pdb
+C:\Users\annal\source\repos\NRoot\NRoot\bin\Release\net10.0\win-x86\publish\NRoot.exe
