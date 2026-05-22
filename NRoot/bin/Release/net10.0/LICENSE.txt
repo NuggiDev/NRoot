@@ -1,8 +1,0 @@
-NROOT END-USER LICENSE AGREEMENT
-
-1. Grant of License: User is granted a non-exclusive license to use NRoot.
-2. Ownership: Software is owned by Andrea.
-3. Disclaimer: USE AT YOUR OWN RISK. Author is not liable for system damage.
-4. Restrictions: Do not reverse engineer.
-
-Copyright (c) 2026 Andrea. All rights reserved.
