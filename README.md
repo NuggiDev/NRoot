@@ -24,9 +24,9 @@ Download the latest release from the **[Releases page](https://github.com/NuggiD
 
 ### Available Builds:
 
-| Platform     | Architecture | Format                  |
+| Platform     | Architecture | Installer format                  |
 |--------------|--------------|-------------------------|
-| Windows      | x64 / arm64  | `.exe`                  |
+| Windows      | x64 / arm64  | `.msi`                  |
 | Linux        | x64 / arm64  | `.tar.gz`               |
 | macOS        | x64 / arm64  | `.tar.gz`               |
 
